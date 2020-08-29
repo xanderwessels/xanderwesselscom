@@ -1,0 +1,11 @@
+{
+    "name": "xanderwessels.com",
+    "description": "CMS for blog",
+    "repository": "https://github.com/xanderwessels/xanderwesselscom",
+    "success_url": "/",
+    "keywords": ["rust", "actix"],
+    "website": "",
+    "env": {
+      "BUILDPACK_URL": "https://github.com/emk/heroku-buildpack-rust.git"
+    }
+  }
